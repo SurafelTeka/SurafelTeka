@@ -17,11 +17,11 @@ Driven by a passion for unraveling complex problems, I'm on the lookout for new 
 
   
 
-<p  align="left"> <img  src="https://komarev.com/ghpvc/?username=vinaybadgujar102&label=Profile%20views&color=0e75b6&style=flat"  alt="nabek" /> </p>
+<p  align="left"> <img  src="https://komarev.com/ghpvc/?username=vinaybadgujar102&label=Profile%20views&color=0e75b6&style=flat"  alt="surafel" /> </p>
 
   
 
-<p  align="left"> <a  href="https://twitter.com/nabekabebe"  target="blank"><img  src="https://img.shields.io/twitter/follow/nabekabebe?logo=twitter&style=for-the-badge"  alt="nabekabebe"  </p>
+<p  align="left"> <a  href="https://twitter.com/jaycelawrie"  target="blank"><img  src="https://img.shields.io/twitter/follow/jaycelawrie?logo=twitter&style=for-the-badge"  alt="surafelteka"  </p>
 
   
 
@@ -37,16 +37,16 @@ Driven by a passion for unraveling complex problems, I'm on the lookout for new 
 
   
 
-- 📫 How to reach me **nabekabebe6@gmail.com**
+- 📫 How to reach me **surafelteka2436@gmail.com**
 
 
-- 🌐 **[Portfolio](https://nabek-portfolio.me/#contact)**
+- 🌐 **[Portfolio](https://surafelteka.netlify.app/)**
 
 
 <h3>Connect with me:</h3>
 
 <p>
-<a  href="https://twitter.com/Nabekabebe"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="Nabek Abebe"  height="30"  width="40" /></a>                <a  href="https://linkedin.com/in/nabek-abebe-217b8419"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="Nabek"  height="30"  width="40" /></a>                  <a  href="https://instagram.com/rishav_chanda"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="rishav_chanda"  height="30"  width="40" /></a>
+<a  href="https://twitter.com/jaycelawrie"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"  alt="Surafel Teka"  height="30"  width="40" /></a>                <a  href="https://linkedin.com/in/surafelteka"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"  alt="surafel"  height="30"  width="40" /></a>                  <a  href="https://instagram.com/rishav_chanda"  target="blank"><img  align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"  alt="rishav_chanda"  height="30"  width="40" /></a>
 </p>
 
 <br/>
@@ -85,11 +85,11 @@ Driven by a passion for unraveling complex problems, I'm on the lookout for new 
 <br/>
 <h3>🏆 GitHub Trophies</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nabekabebe&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=surafelteka&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
   
 
-<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=nabekabebe&show_icons=true&locale=en&layout=compact&theme=ambient_gradient"  alt="nabek" /> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=nabekabebe&theme=rising-sun" alt="GitHub Streak" /></a>
+<p><img  align="left"  src="https://github-readme-stats.vercel.app/api/top-langs?username=surafelteka&show_icons=true&locale=en&layout=compact&theme=ambient_gradient"  alt="surafel" /> <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=surafelteka&theme=rising-sun" alt="GitHub Streak" /></a>
 </p>
   
 
@@ -99,4 +99,4 @@ Driven by a passion for unraveling complex problems, I'm on the lookout for new 
 
  
 
-<div>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=nabekabebe&show_icons=true&locale=en&theme=dark"  alt="nabekabebe" /></div>
+<div>&nbsp;<img  align="center"  src="https://github-readme-stats.vercel.app/api?username=surafelteka&show_icons=true&locale=en&theme=dark"  alt="surafelteka" /></div>
